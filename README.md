@@ -4,7 +4,7 @@ written by H.Zhang.
 
 ## Introduction
 
-This project is used for SPI prediction.
+With the help of the deep learning framework PyTorch, the long short-term memory network LSTM is implemented, and it is predicted for SPI.
 
 ## Requirements
 
